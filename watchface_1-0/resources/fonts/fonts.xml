@@ -1,0 +1,5 @@
+<fonts>
+	<font id="customFont" filename="consolas101.fnt" antialias="true" filter="0123456789:"/>
+	<font id="consolasHalf" filename="consolas101_half_50.fnt" antialias="true" filter="0123456789: "/>
+	<font id="consolasSmall" filename="consolasSmall.fnt" antialias="true" filter="0123456789:QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm ,.%"/>
+</fonts>

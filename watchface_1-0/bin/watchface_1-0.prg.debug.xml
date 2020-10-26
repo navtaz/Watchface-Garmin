@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="4" lineNum="23" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="4" lineNum="24" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="4" lineNum="25" pc="268435526" symbol="onLayout"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="4" lineNum="26" pc="268435569" symbol="onLayout"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="30" pc="268435613" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="32" pc="268435617" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="33" pc="268435653" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="36" pc="268435665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="37" pc="268435709" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="38" pc="268435753" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="39" pc="268435873" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="42" pc="268435892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="43" pc="268435915" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="46" pc="268435993" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="47" pc="268436003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="48" pc="268436028" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="49" pc="268436038" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="50" pc="268436049" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="54" pc="268436062" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="55" pc="268436080" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="56" pc="268436104" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="60" pc="268436170" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="61" pc="268436206" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="63" pc="268436262" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="64" pc="268436298" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="66" pc="268436342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="5" lineNum="67" pc="268436378" symbol="onUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="6" lineNum="71" pc="268436435" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="6" lineNum="73" pc="268436439" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="6" lineNum="74" pc="268436458" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="6" lineNum="76" pc="268436482" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="6" lineNum="77" pc="268436518" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="7" lineNum="80" pc="268436572" symbol="onShow"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="8" lineNum="83" pc="268436577" symbol="onHide"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="9" lineNum="86" pc="268436582" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10View.mc" id="10" lineNum="89" pc="268436587" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10Background.mc" id="12" lineNum="7" pc="268436592" symbol="initialize"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10Background.mc" id="12" lineNum="8" pc="268436596" symbol="initialize"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10Background.mc" id="12" lineNum="12" pc="268436617" symbol="initialize"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10Background.mc" id="13" lineNum="15" pc="268436638" symbol="draw"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10Background.mc" id="13" lineNum="17" pc="268436642" symbol="draw"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10Background.mc" id="13" lineNum="18" pc="268436695" symbol="draw"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10App.mc" id="15" lineNum="6" pc="268436708" symbol="initialize"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10App.mc" id="15" lineNum="7" pc="268436712" symbol="initialize"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10App.mc" id="16" lineNum="11" pc="268436731" symbol="onStart"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10App.mc" id="17" lineNum="15" pc="268436736" symbol="onStop"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10App.mc" id="18" lineNum="19" pc="268436741" symbol="getInitialView"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10App.mc" id="18" lineNum="20" pc="268436745" symbol="getInitialView"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10App.mc" id="19" lineNum="24" pc="268436783" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\m67310\\eclipse-workspace\\watchface_1-0\\source\\watchface_10App.mc" id="19" lineNum="25" pc="268436787" symbol="onSettingsChanged"/>
+<entry filename="Rez" id="26" lineNum="32" pc="268436804" symbol="WatchFace"/>
+<entry filename="Rez" id="26" lineNum="36" pc="268436816" symbol="WatchFace"/>
+<entry filename="Rez" id="26" lineNum="37" pc="268436840" symbol="WatchFace"/>
+<entry filename="Rez" id="26" lineNum="39" pc="268437003" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry field="true" id="13" symbol="consolasHalf"/>
+<entry field="true" id="18" symbol="ColorBlue"/>
+<entry field="true" id="11" symbol="customFont"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="25" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="24" symbol="ColorBlack"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="19" symbol="ColorRed"/>
+<entry field="true" id="20" symbol="ForegroundColorTitle"/>
+<entry field="true" id="12" symbol="consolasSmall"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry id="9" object="true" symbol="watchface_10View"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="22" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="17" symbol="ColorLightGray"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="21" symbol="BackgroundColorTitle"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="23" symbol="MilitaryFormatTitle"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="10" object="true" symbol="watchface_10App"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435613" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268436434" name="timeString" stackId="11" startPc="268435617"/>
+<entry endPc="268436434" name="hourdig" stackId="9" startPc="268435617"/>
+<entry endPc="268436434" name="clockTime" stackId="5" startPc="268435617"/>
+<entry endPc="268436434" name="mindig" stackId="10" startPc="268435617"/>
+<entry endPc="268436434" name="hour" stackId="8" startPc="268435617"/>
+<entry endPc="268436434" name="myBatt" stackId="6" startPc="268435617"/>
+<entry endPc="268436434" name="today_SH" stackId="3" startPc="268435617"/>
+<entry endPc="268436434" name="dateString" stackId="4" startPc="268435617"/>
+<entry endPc="268436434" name="today_MED" stackId="2" startPc="268435617"/>
+<entry endPc="268436434" name="battstring" stackId="7" startPc="268435617"/>
+<entry endPc="268436435" name="dc" stackId="1" startPc="268435613"/>
+<entry endPc="268436571" name="secdig" stackId="3" startPc="268436439"/>
+<entry endPc="268436571" name="clockTime" stackId="2" startPc="268436439"/>
+<entry endPc="268436572" name="dc" stackId="1" startPc="268436435"/>
+<entry endPc="268436637" name="dictionary" stackId="1" startPc="268436596"/>
+<entry endPc="268436708" name="dc" stackId="1" startPc="268436638"/>
+<entry endPc="268436736" name="state" stackId="1" startPc="268436731"/>
+<entry endPc="268436741" name="state" stackId="1" startPc="268436736"/>
+<entry endPc="268437030" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436816"/>
+<entry endPc="268437030" name="rez_cmp_local_custom_drawable_12517455981274777301" stackId="2" startPc="268436816"/>
+<entry endPc="268437031" name="dc" stackId="1" startPc="268436804"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="watchface_10App" type="class"/>
+<dataEntry offset="316" parentId="globals" symbolId="watchface_10View" type="class"/>
+<dataEntry offset="443" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="522" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="561" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="592" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="647" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="678" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="717" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="watchface_10View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="watchface_10View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="watchface_10View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPartialUpdate" parent="watchface_10View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="watchface_10View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="watchface_10View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="watchface_10View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="watchface_10View">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="watchface_10App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="watchface_10App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="watchface_10App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="watchface_10App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="watchface_10App">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

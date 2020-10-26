@@ -1,0 +1,16 @@
+info face="Consolas" size=110 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=2 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=110 base=87 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="consolaslarge_0.png"
+chars count=12
+char id=32   x=188   y=63    width=1     height=1     xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=48   x=0     y=0     width=45    height=63    xoffset=3     yoffset=25    xadvance=51    page=0  chnl=15
+char id=49   x=88    y=64    width=41    height=61    xoffset=5     yoffset=26    xadvance=51    page=0  chnl=15
+char id=50   x=214   y=0     width=40    height=62    xoffset=6     yoffset=25    xadvance=51    page=0  chnl=15
+char id=51   x=89    y=0     width=38    height=63    xoffset=7     yoffset=25    xadvance=51    page=0  chnl=15
+char id=52   x=39    y=64    width=48    height=61    xoffset=1     yoffset=26    xadvance=51    page=0  chnl=15
+char id=53   x=0     y=64    width=38    height=62    xoffset=7     yoffset=26    xadvance=51    page=0  chnl=15
+char id=54   x=128   y=0     width=42    height=62    xoffset=5     yoffset=26    xadvance=51    page=0  chnl=15
+char id=55   x=130   y=63    width=41    height=61    xoffset=5     yoffset=26    xadvance=51    page=0  chnl=15
+char id=56   x=46    y=0     width=42    height=63    xoffset=5     yoffset=25    xadvance=51    page=0  chnl=15
+char id=57   x=171   y=0     width=42    height=62    xoffset=4     yoffset=25    xadvance=51    page=0  chnl=15
+char id=58   x=172   y=63    width=15    height=49    xoffset=18    yoffset=39    xadvance=51    page=0  chnl=15
